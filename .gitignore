@@ -1,0 +1,16 @@
+checkpoint_age_inference.json
+checkpoint_emotion_7class.json
+checkpoint_emotion.json
+checkpoint_face.json
+checkpoint.json
+
+classified/
+emotions/
+emotions_7class/
+extracted_frames/
+face_crops_aligned/
+ground_truth/
+keypoints/
+metrics/
+models/
+videos/
