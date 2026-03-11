@@ -119,7 +119,7 @@ drive.mount('/content/drive')
 
 ```bash
 # Clone the repository
-git clone https://github.com/shamsaht/face-pipeline-project.git
+git clone https://github.com/shamsaht/autism-behavioral-biomarker-extraction.git
 cd face-pipeline-project
 
 # Create a virtual environment
@@ -272,3 +272,4 @@ This project is part of an academic research internship focused on autism spectr
 - **EfficientNet-B0** (via `timm`) for age classification
 - **DeepFace** for emotion analysis
 - Research conducted under clinical supervision for ASD behavioural study
+
