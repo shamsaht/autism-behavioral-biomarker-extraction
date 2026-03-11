@@ -261,7 +261,7 @@ BASE_PATH = "/content/drive/MyDrive/face_pipeline_project"
 
 ## License
 
-This project is part of an academic research internship focused on autism spectrum disorder behavioural analysis. Please contact the project maintainers for usage permissions.
+This repository contains the code developed as part of an MSc thesis at Mohamed bin Zayed University of Artificial Intelligence (MBZUAI) on the automated extraction of behavioral biomarkers for Autism Spectrum Disorder (ASD).
 
 ---
 
@@ -272,5 +272,6 @@ This project is part of an academic research internship focused on autism spectr
 - **EfficientNet-B0** (via `timm`) for age classification
 - **DeepFace** for emotion analysis
 - Research conducted under clinical supervision for ASD behavioural study
+
 
 
